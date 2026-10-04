@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prg15/static/css/main.2ad592c5.css",
+    "main.js": "/prg15/static/js/main.e4fbe2e5.js",
+    "index.html": "/prg15/index.html",
+    "main.2ad592c5.css.map": "/prg15/static/css/main.2ad592c5.css.map",
+    "main.e4fbe2e5.js.map": "/prg15/static/js/main.e4fbe2e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad592c5.css",
+    "static/js/main.e4fbe2e5.js"
+  ]
+}
